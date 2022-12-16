@@ -1,2 +1,3 @@
-# interview-code-challenges
-Interview code challenges
+# Interview Code Challenges
+
+Interview code challenges for Holafly
